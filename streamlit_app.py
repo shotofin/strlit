@@ -14,5 +14,6 @@ with st.form("form1", True):
         
     if submittedN:
         st.write("😭")
-        st.write("atunci canta la pian")
+        st.write("you traitor, you betrayer, I trusted you. I thought you'd help a poor person with no family.. you'll regret this..
+          ")
 
